@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Visions Barbershop VS mark">
+  <text x="60" y="76" text-anchor="middle"
+        font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="900" font-size="64" letter-spacing="-3" fill="#ffffff">VS</text>
+  <rect x="30" y="86" width="60" height="1.4" fill="#ffffff" opacity="0.5"/>
+  <text x="60" y="105" text-anchor="middle"
+        font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="600" font-size="14" letter-spacing="4" fill="#ffffff" opacity="0.75">2025</text>
+</svg>
